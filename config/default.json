@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "ilya bigidil",
+  "mongoUrl": "mongodb+srv://bigidil:xlHy3TJ99b1QzkQo@cluster0.jfcoj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000" 
+}
